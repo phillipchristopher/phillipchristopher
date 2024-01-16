@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phillipchristopher
 - 👀 I’m interested in space, computers, and hockey
-- 🌱 I’m currently learning database administration and programming
+- 🌱 I’m currently learning java programming
 - 💞️ I’m looking to collaborate on ... nothing at the moment
 - 📫 How to reach me ...
 
