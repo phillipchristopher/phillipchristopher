@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phillipchristopher
 - 👀 I’m interested in space, computers, and hockey
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning C
 - Try www.passwordpanther.com to create a secure password
 
 <!---
